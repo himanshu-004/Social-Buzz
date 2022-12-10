@@ -5,7 +5,7 @@ Technologies used : SQL, Tableau, Excel.
 
 Social Buzz a large social media conglomerate it emphasizes content by keeping all users anonymous, only tracking user reactions on every piece of content.
 
-To start our engagement with Social Buzz, the data analytics team at running a 3 month initial project in order 
+To start our engagement with Social Buzz, the data analytics team at Accenture running a 3 month initial project in order 
 to prove to them that we are the best firm to work with. They are expecting the following: 
 
 - An audit of their big data practice 
